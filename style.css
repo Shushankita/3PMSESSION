@@ -1,0 +1,16 @@
+body{
+background-color:pink
+}
+h1{
+color:purple; font-family:Monotype Corsiva;font-size:40px
+}
+p{
+font-family:Berlin Sans FB;font-size:20px
+}
+table,tr,th,td{
+border:1px solid blue;
+color:green;
+border-collapse:collapse;
+padding:5px;
+text-align:center
+}
